@@ -4,7 +4,6 @@ An Excel pricing calculator I built to understand how staffing firms price clien
 
 **Note:** All wage and client data in this workbook is illustrative. I built it to learn placement pricing mechanics, not from any company's real data.
 
-![Quote Builder](quote_builder.png)
 
 ## What's inside
 
